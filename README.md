@@ -1,7 +1,7 @@
 
 # FotoBlog
 
-Esse projeto foi desenvolvido durante as aulas do Stage 03 no Explorer.
+This project was developed during Stage 03 classes at Explorer.
 ## Authors
 
 - [@maykbrito](https://www.github.com/maykbrito)
@@ -9,10 +9,9 @@ Esse projeto foi desenvolvido durante as aulas do Stage 03 no Explorer.
 
 ## Feedback
 
-Um projeto bem legal e que contribuiu muto para o meu aprendizad
+A really cool project that contributed a lot to my learning
 
-
-## 🛠 Tecnologias
+## 🛠 Technologies
 HTML, CSS...
 
 
